@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <dimen name="default_screen_margin">16dp</dimen>
+  <dimen name="default_item_margin">8dp</dimen>
+  <dimen name="main_title_size">18sp</dimen>
+
+
+  <dimen name="recycler_categories_spacing">20dp</dimen>
+
+  <dimen name="recycler_places_spacing">10dp</dimen>
+
+</resources>

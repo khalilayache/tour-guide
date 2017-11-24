@@ -1,0 +1,97 @@
+<resources>
+  <string name="app_name" translatable="false">SP Guide</string>
+  <string name="main_title">Sao Paulo Tourist Guide</string>
+  <string name="city_banner_description">Sao Paulo tourist guide banner</string>
+
+  <string name="museum_br">Museums</string>
+  <string name="night_clubs">Night Clubs</string>
+  <string name="restaurants">Restaurants</string>
+  <string name="attractions">Attractions</string>
+
+  //Museums Name
+  <string name="mis_name" translatable="false">MIS - Museu de Imagem e Som</string>
+  <string name="masp_name" translatable="false">MASP - Museu de Arte de São Paulo</string>
+  <string name="pinacoteca_name" translatable="false">Pinacoteca do Estado de São Paulo</string>
+  <string name="imigracao_name" translatable="false">Museu da Imigração de São Paulo</string>
+  <string name="mam_name" translatable="false">MAM - Museu de Arte Moderna de São Paulo</string>
+  <string name="mam_address" translatable="false">Av. Pedro Álvares Cabral, s/n° - Parque Ibirapuera, São Paulo - SP, 04094-000</string>
+  <string name="imigracao_address" translatable="false">R. Visc. de Parnaíba, 1316 - Mooca, São Paulo - SP, 03164-300</string>
+  <string name="pinacoteca_address" translatable="false">Praça da Luz, 2 - Luz, São Paulo - SP, 01120-010</string>
+  <string name="masp_address" translatable="false">Av. Paulista, 1578 - Bela Vista, São Paulo - SP, 01310-200</string>
+  <string name="mis_address" translatable="false">Av. Europa, 158 - Jardim Europa, São Paulo - SP, 01449-000</string>
+  <string name="mis_about">O Museu da Imagem e do Som (MIS) é um museu público estadual, vinculado à Secretaria da Cultura e inaugurado no ano de 1970.\nFruto de um projeto iniciado alguns anos antes por intelectuais e produtores culturais, como Ricardo Cravo Albin, Paulo Emílio Salles Gomes, Rudá de Andrade, Francisco Luiz de Almeida Salles e Luiz Ernesto Machado Kawall, o museu preserva hoje o patrimônio de audiovisual nacional e abriga diversos documentos sonoros e imagéticos.</string>
+  <string name="mis_rate" translatable="false">9.4</string>
+  <string name="imigracao_about">O Museu da Imigração do Estado de São Paulo é uma instituição pública vinculada à Secretaria de Estado da Cultura de São Paulo. Está localizada na sede da extinta Hospedaria dos Imigrantes. O museu possui forte tendência a ser um ponto turístico altamente frequentado por pessoas de dentro e de fora da cidade de São Paulo.</string>
+  <string name="imigracao_rate" translatable="false">9.2</string>
+  <string name="mam_about">O Museu de Arte Moderna de São Paulo (MAM) é uma das mais importantes instituições culturais do Brasil. Um edifício inserido no conjunto arquitetônico projetado por Oscar Niemeyer em 1954 e reformado por Lina Bo Bardi em 1982 para abrigar o museu.</string>
+  <string name="mam_rate" translatable="false">9.0</string>
+  <string name="masp_about">Museu de Arte de São Paulo Assis Chateaubriand (mais conhecido pelo acrônimo MASP) é uma das mais importantes instituições culturais brasileiras.[2] Localiza-se, desde 7 de novembro de 1968, na Avenida Paulista, cidade de São Paulo, em um edifício projetado pela arquiteta ítalo-brasileira Lina Bo Bardi para ser sua sede. Famoso pelo vão de mais de 70 metros que se estende sob quatro enormes pilares, concebido pelo engenheiro José Carlos de Figueiredo Ferraz[3], o edifício é considerado um importante exemplar da arquitetura brutalista brasileira e um dos mais populares ícones da capital paulista, sendo tombado pelas três esferas do poder executivo.[4] O engenheiro responsável foi Isac Grobman.</string>
+  <string name="masp_rate" translatable="false">9.5</string>
+  <string name="pinacoteca_about">Pinacoteca é um museu que contém um acervo de pinturas. Foi no Grécia antiga (o elemento culto pinac(o), do grego pinax, pinakos, remete para quadro[1]) que apareceu o conceito de pinacoteca como coleção de quadros de diferentes épocas,[2] junto com a idéia de que os objetos de arte eram propriedades dos cidadãos que podia ter acesso para desfrutá-las. A pinacoteca era a ala dos propileus da Acrópole de Atenas que continha uma coleção de pinturas de Polignoto que podiam ser admirados pelos cidadãos.</string>
+  <string name="pinacoteca_rate" translatable="false">9.6</string>
+  <string name="villa_country_name" translatable="false">Villa Country</string>
+  <string name="villa_country_about">nspirada na cultura dos cowboys do western, o Villa Country possui 12 mil metros quadrados divididos em vários ambientes que remetem o visitante ao velho oeste americano. É muito mais do que uma casa de shows, pois concentra restaurante, pista de dança, camarotes e centro de convenções. Ambientes diferenciados, como o Saloon, as Praças Sertaneja, Caipira e do Cavalo, dão o tom temático ao lugar. Aqui é possível ouvir o melhor da música sertaneja e de raiz, sem esquecer o inconfundível repertório country.</string>
+  <string name="villa_country_address" translatable="false">Av. Francisco Matarazzo, 774 - Água Branca, São Paulo - SP, 05001-000</string>
+  <string name="villa_country_rate" translatable="false">9.0</string>
+  <string name="blitz_name" translatable="false">Blitz Hauz</string>
+  <string name="blitz_about">A Blitz Haus, fica no número 657, oferece música de qualidade, ótimos comes e bebes e muita diversão em uma proposta inovadora. Sociedade entre o e o empresário Humberto Jesus, o espaço é o primeiro empreendimento idealizado por desde sua antiga casa, o Atari Club, fechado em 2006.</string>
+  <string name="blitz_address" translatable="false">R. Augusta, 657 - Consolação, São Paulo - SP, 01306-010</string>
+  <string name="blitz_rate" translatable="false">8.0</string>
+  <string name="dedge_name" translatable="false">D-Edge</string>
+  <string name="dedge_address" translatable="false">Av. Auro Soares de Moura Andrade, 141 - Barra Funda, São Paulo - SP, 01155-040</string>
+  <string name="dedge_rate" translatable="false">8.8</string>
+  <string name="dedge_about">Na capital paulista o clube desbravou a região industrial da Barra Funda quando abriu suas portas na Rua Olga, em 2003, e desde então foi responsável pela transformação da região em um pólo de importantes clubes da cidade. O D.EDGE é dos clubes dos quais as histórias confundem-se com o advento da música eletrônica no país, com o movimento que retirou o estilo dos guetos e do meio underground e o levou ao mainstream.</string>
+  <string name="madame_name" translatable="false">Madame Satan Night Club</string>
+  <string name="madame_about">Madame Satã é um clube de música instalado no distrito ítalo-brasileiro Bela Vista, região central do município de São Paulo, Brasil</string>
+  <string name="madame_rate" translatable="false">9.2</string>
+  <string name="madame_address" translatable="false">R. Conselheiro Ramalho, 873 - Bela Vista, São Paulo - SP, 01325-001</string>
+  <string name="cluba_name" translatable="false">Club A</string>
+  <string name="cluba_about">A ampla e descolada danceteria conta com vários Djs, 2 pistas de dança, 4 bares, lounge e pátio ao ar livre.</string>
+  <string name="cluba_rate" translatable="false">8.6</string>
+  <string name="cluba_address" translatable="false">Alameda dos Aicás, 1642 - Indianópolis, São Paulo - SP, 04086-003</string>
+  <string name="croc_name" translatable="false">Croc 30</string>
+  <string name="croc_about">Como o nome entrega, a especialidade são os pastéis com 30 centímetros de comprimento. Os salgados montados e fritos na hora podem receber mais de cinquenta tipos de recheio (bem fartos, vale frisar). Escolha entre massa tradicional e integral para preencher com abobrinha e queijo branco (R$ 17,50), peperoni com mussarela e orégano (R$ 17,50) ou frango desfiado mais palmito, ovo cozido e azeitona (R$ 18,60). Boa opção para quem prefere fazer uma degustação de várias versões, o croc trio (R$ 16,90) compõe-se de três quitutes menores, com 10 centímetros cada um, nos sabores pizza, carne e chocolate com frutas. Para dar clima de feira livre ao lugar, peça um caldo de cana com um toque de limão (R$ 4,50; 300 mililitros). Se a ideia é armar o boteco, vá de cerveja Original ou Heineken (R$ 9,90).</string>
+  <string name="croc_address" translatable="false">R. Sena Madureira, 450 - Vila Clementino, São Paulo - SP, 04021-050</string>
+  <string name="croc_rate" translatable="false">8.4</string>
+  <string name="urbe_name" translatable="false">Urbe Café</string>
+  <string name="urbe_about">Cafezinho, salgadinhos, docinhos e refeições rápidas em mesinhas ou balcão, com clima intimista e acolhedor.</string>
+  <string name="urbe_address" translatable="false">R. Antônio Carlos, 404 - Consolação, São Paulo - SP, 01309-010</string>
+  <string name="urbe_rate" translatable="false">9.0</string>
+  <string name="mercadao_name" translatable="false">Mercado Municipal de São Paulo</string>
+  <string name="mercadao_about">Mercado Municipal Paulistano, também conhecido simplesmente como Mercadão, está localizado no centro histórico de São Paulo, capital do estado homônimo brasileiro, entre as ruas Cantareira, Comendador Assad Abdalla e as avenidas Mercúrio e do Estado, sobre uma área próxima ao rio Tamanduateí, no bairro Mercado, antiga Várzea do Carmo.[1][2] sendo um importante mercado público da cidade.  Foi projetado pelo engenheiro Felisberto Ranzini, que também é responsável pelo Teatro Municipal e pela Pinacoteca, e inaugurado em 25 de janeiro de 1933, tendo mais de oito décadas de história, (também aniversário da cidade de São Paulo) para ser um entreposto comercial de atacado e varejo, especializado na comercialização de frutas, verduras, cereais, carnes, temperos e outros produtos alimentícios. Porém, sua primeira função foi a de armazém de pólvora e munições.</string>
+  <string name="mercadao_address" translatable="false">R. Cantareira, 306 - Centro, São Paulo - SP, 01103-200</string>
+  <string name="mercadao_rate" translatable="false">9.0</string>
+  <string name="estadao_name" translatable="false">Estadão Bar &amp; Lanches</string>
+  <string name="estadao_address" translatable="false">Viaduto Nove de Julho, 193 - Bela Vista - São Paulo - SP</string>
+  <string name="estadao_rate" translatable="false">9.0</string>
+  <string name="estadao_about">Seu balcão é um dos mais democráticos da cidade. Gente indo ou voltando da balada, trabalhadores da região, taxistas e famílias turistando costumam se aboletar lado a lado a fim de devorar o famoso sanduíche de pernil no pão francês (R$ 14,00). O icônico lanche, que a bem da verdade já teve recheio mais suculento e hoje pode trazer uma carne ressecada, é valorizado por molho de cebola, pimentão e tomate.</string>
+  <string name="fogo_address" translatable="false">R. Augusta, 2077 - Cerqueira César, São Paulo - SP, 01413-100</string>
+  <string name="fogo_name" translatable="false">Fogo de Chão Jardins</string>
+  <string name="fogo_about">Rede brasileira de churrascarias com carne à vontade cortada à mesa, além de um grande buffet de saladas</string>
+  <string name="fogo_rate">9.0</string>
+  <string name="ibira_name" translatable="false">Parque Ibirapuera</string>
+  <string name="ibira_about">O Parque Ibirapuera é o mais importante parque urbano da cidade de São Paulo, no Brasil. Foi inaugurado em 21 de agosto de 1954 para a comemoração do quarto centenário da cidade.</string>
+  <string name="ibira_address" translatable="false">Av. Pedro Álvares Cabral - Vila Mariana, São Paulo - SP, 04002-010</string>
+  <string name="ibira_rate" translatable="false">9.4</string>
+  <string name="independencia_about">O Parque da Independência, inaugurado em 1989, nas margens do córrego do bairro do Ipiranga, na cidade de São Paulo, faz parte do patrimônio histórico cultural brasileiro devido ao Grito da Independência do país, ali proclamada por D. Pedro I.</string>
+  <string name="independencia_rate" translatable="false">9.0</string>
+  <string name="independencia_address" translatable="false">Av. Nazareth, S/N - Ipiranga, São Paulo - SP</string>
+  <string name="independencia_name" translatable="false">Parque da Independência</string>
+  <string name="villa_lobos_address" translatable="false">Av. Prof. Fonseca Rodrigues, 2001 - Alto de Pinheiros, São Paulo - SP, 05461-010</string>
+  <string name="villa_lobos_rate" translatable="false">9.2</string>
+  <string name="villa_lobos_name" translatable="false">Parque Villa Lobos</string>
+  <string name="villa_lobos_about">O Parque Estadual Villa-Lobos é um parque público, localizado em Alto de Pinheiros, às margens do rio Pinheiros, na cidade de São Paulo, Brasil. A entrada principal do parque situa-se na avenida Professor Fonseca Rodrigues.</string>
+  <string name="povo_address" translatable="false">Av. Henrique Chamma, 420 - Chácara Itaim, São Paulo - SP, 04533-130</string>
+  <string name="povo_rate" translatable="false">9.0</string>
+  <string name="povo_about">O Parque Povo Mário Pimenta Camargo, ou Parque do Povo, foi inaugurado no dia vinte e oito de setembro de 2008, no distrito do Itaim Bibi, no bairro de Chácara Itaim, na grande São Paulo.</string>
+  <string name="povo_name" translatable="false">Parque do Povo</string>
+  <string name="luz_name" translatable="false">Parque da Luz</string>
+  <string name="luz_rate" translatable="false">8.0</string>
+  <string name="luz_about">O Jardim da Luz é um espaço público, caracterizado como jardim público ou como um parque com 113.400 m², localizado na avenida Tiradentes, região da Luz, na cidade de São Paulo, Brasil.</string>
+  <string name="luz_address">R. Ribeiro de Lima, s/n – Bom Retiro, São Paulo – SP, 01122-000</string>
+  <string name="about">Sobre</string>
+  <string name="rate">Nota</string>
+  <string name="address">Address</string>
+  <string name="name">Name</string>
+
+</resources>

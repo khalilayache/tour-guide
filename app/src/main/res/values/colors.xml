@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="colorPrimary">#757575</color>
+  <color name="colorPrimaryDark">#424242</color>
+  <color name="colorAccent">#304ffe</color>
+
+  <color name="attractions_background">#FF9800</color>
+  <color name="museum_background">#66BB6A</color>
+  <color name="night_clubs_background">#90A4AE</color>
+  <color name="restaurants_background">#00BCD4</color>
+
+  <color name="attractions_status">#FB8C00</color>
+  <color name="museum_status">#43A047</color>
+  <color name="night_clubs_status">#78909C</color>
+  <color name="restaurants_status">#00acc1</color>
+
+</resources>

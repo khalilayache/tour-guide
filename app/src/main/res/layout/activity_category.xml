@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/main_container"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.CategoriesActivity">
+
+  <ImageView
+      android:id="@+id/city_banner"
+      android:layout_width="match_parent"
+      android:layout_height="200dp"
+      android:layout_alignParentTop="true"
+      android:scaleType="matrix"
+      android:contentDescription="@string/city_banner_description"
+      app:srcCompat="@drawable/sao_paulo_header"
+      android:adjustViewBounds="true"/>
+
+  <TextView
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_alignBottom="@id/city_banner"
+      android:layout_marginBottom="@dimen/default_screen_margin"
+      android:layout_marginLeft="@dimen/default_screen_margin"
+      android:layout_marginStart="@dimen/default_screen_margin"
+      android:shadowColor="@android:color/black"
+      android:shadowRadius="3"
+      android:shadowDx="-5"
+      android:textColor="@android:color/white"
+      android:textSize="@dimen/main_title_size"
+      android:text="@string/main_title"/>
+
+  <android.support.v7.widget.RecyclerView
+      android:id="@+id/recycler_activity_main"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_below="@id/city_banner"
+      android:overScrollMode="never"
+      android:clipToPadding="false"
+      tools:listitem="@layout/recycler_category"
+      android:scrollbars="none"/>
+
+</RelativeLayout>
+
